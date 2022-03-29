@@ -1,0 +1,7 @@
+---
+
+- name: Provision Mitzi infra on cloud
+  import_playbook: mitzidotcom.userinfo.provision
+
+...
+
